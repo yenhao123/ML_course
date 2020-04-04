@@ -4,6 +4,7 @@
 
 ## Goal
 實作 linear regrssion 的 OLS(普通最小乘法)
+
 實作 Ridge 正規化回歸
 
 ## 題目( a )、( b )
