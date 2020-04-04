@@ -8,4 +8,4 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR3R5AvxWcPEcwB7W
 
 hw_1 : gradient decent 實作
 
-ccu_hw_ : OLS與Ridge 實作
+linear_regrssion : OLS與Ridge 實作
