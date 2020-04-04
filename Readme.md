@@ -7,3 +7,5 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR3R5AvxWcPEcwB7W
 實作作業 : 
 
 hw_1 : gradient decent 實作
+
+ccu_hw_! : OLS與Ridge 實作
